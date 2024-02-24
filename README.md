@@ -9,7 +9,7 @@ Multiplication
 Division
 
 #Reports
-Reports are generated in DerivWebAutomationProject\reports
+Reports are generated in CalculatorMobileAutomation\reports
 index.html is the report generated.
 Any failure screenshots will be generated in this folder.
 
